@@ -18,4 +18,4 @@ prefixSum[2] = prefixSum[1] + arr[2] = 40 and so on.
 This repository contains a simple C# console application (a parallel algorithm) for computing prefix sum of a given array.
 
 ## Screenshot
-![]()
+![parallel-prefix-sum-example](https://github.com/mehrta/parallel-prefix-sum/blob/master/example.png)
